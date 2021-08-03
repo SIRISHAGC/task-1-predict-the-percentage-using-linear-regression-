@@ -1,1 +1,0 @@
-# task-1-predict-the-percentage-using-linear-regression-
